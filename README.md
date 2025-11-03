@@ -11,3 +11,7 @@ Playing around with local hosting and serving of LLMs.
 `pip install pyrefly`
 
 `pyrefly check`
+
+## Linting
+
+`ruff`
