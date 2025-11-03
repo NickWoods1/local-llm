@@ -1,4 +1,4 @@
-# Locally Hosted LLM
+# Locally Hosted LLMs
 
 Playing around with local hosting and serving of LLMs.
 
